@@ -38,33 +38,32 @@ flowchart TD
 ```
 
 ### b. UI Wireframing (Key Screens):
-Dashboard View (Calendar + Application Stats)
-Application Form (Add/Edit)
-Automation Control Panel
-Reporting/Analytics
+- Dashboard View (Calendar + Application Stats)
+- Application Form (Add/Edit)
+- Automation Control Panel
+- Reporting/Analytics
 
 ### c. Responsive Design Considerations:
-Mobile-first approach for quick access
-Data tables that work well on all devices
-Accessible color schemes and font sizes
+- Mobile-first approach for quick access
+- Data tables that work well on all devices
+- Accessible color schemes and font sizes
 
-## 3. Development Approach
-Recommended Incremental Implementation:
+## 3. Incremental Development Approach
 
 ### Phase 1: Basic Tracker 
 
-CRUD operations for job applications
-Simple dashboard with stats
-Local storage or basic database
+- CRUD operations for job applications
+- Simple dashboard with stats
+- Local storage or basic database
 
 ### Phase 2: Automation Foundations 
 
-Job board scraping
-Basic form auto-fill
-Chrome extension (if needed)
+- Job board scraping
+- Basic form auto-fill
+- Chrome extension (if needed)
 
 ### Phase 3: Advanced Features 
 
-LinkedIn integration
-AI-assisted cover letters
-Advanced analytics
+- LinkedIn integration
+- AI-assisted cover letters
+- Advanced analytics
