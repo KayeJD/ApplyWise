@@ -2,7 +2,7 @@
 
 ## 1. Planning Phase
 
-### a. Define Core Features:
+### a. Core Features:
 
 #### Job Application Tracker:
 - Add/Edit/Delete job entries
